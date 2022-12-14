@@ -26,6 +26,7 @@ Feature: Account Type
     When User should input "<userEmail>" and "<password>"
     Then The user name should be "<name>"
 
+
     Examples:
       | userEmail               | password | name           |
       | mike@gmail.com          | mike1234 | Harun          |
