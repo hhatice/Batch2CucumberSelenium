@@ -36,7 +36,7 @@ public class Test_JDBC_Day2 {
 
             resultSet.beforeFirst();
 
-            //Örnek: Tüm rowların ilk iki kolonunu bir döngüyle alt alta yazdıralım.
+//            Örnek: Tüm rowların ilk iki kolonunu bir döngüyle alt alta yazdıralım.
 //            while (resultSet.next()){
 //                System.out.print(resultSet.getString(1)+" | "+resultSet.getString(2));
 //            }
