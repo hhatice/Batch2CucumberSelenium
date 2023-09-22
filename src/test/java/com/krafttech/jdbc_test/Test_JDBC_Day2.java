@@ -50,7 +50,6 @@ public class Test_JDBC_Day2 {
             System.out.println("row sıra numarası : " + resultSet.getRow());
 
         }
-
         catch (SQLException e) {
             throw new RuntimeException(e);
         }
